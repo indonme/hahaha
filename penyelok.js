@@ -30,7 +30,7 @@ if(x=="6"){xxx="/2017/08/8-manfaat-air-kelapa-untuk-kesehatan.html"}
 if(x=="7"){xxx="/2017/08/memakai-ac-untuk-kesehatan-bayi-bisa.html"}
 if(x=="8"){xxx="/2017/08/bahaya-kanker-payudara-pada-wanita.html"}
 if(x=="9"){xxx="/2017/08/2-macam-jenis-kesehatan-dalam-olahraga.html"}
-if(x=="10"){xxx="/2017/08/berita-tentang-kesehatan-di-indonesia.html"}a_to_ve[i].href="https://www.travelgirls.ga/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="/2017/08/berita-tentang-kesehatan-di-indonesia.html"}a_to_ve[i].href="https://safe-linkartikel.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
